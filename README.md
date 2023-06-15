@@ -19,3 +19,11 @@ https://www.sfml-dev.org/files/SFML-2.4.2-windows-gcc-4.9.2-tdm-64-bit.zip
 3. Buka file "Kelompok6-IF21-AgainstTheCurrent.dev" dengan menggunakan aplikasi Devcpp
 
 4. Game sudah bisa dijalankan
+
+## Screnshoots
+1. Start View  
+![Start View](https://github.com/hafidhmuhammadakbar/AgainstTheCurrent-CPP-SFML/assets/start-view.png?raw=true)
+2. Main View  
+![Main View](https://github.com/hafidhmuhammadakbar/AgainstTheCurrent-CPP-SFML/assets/main-view.png?raw=true)
+3. End View  
+![End View](https://github.com/hafidhmuhammadakbar/AgainstTheCurrent-CPP-SFML/assets/end-view.png?raw=true)
