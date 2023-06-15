@@ -11,9 +11,9 @@
 
 1. Pastikan sudah mendownload SFML "GCC 4.9.2 TDM (SJLJ) - 64-bitDow"
 berikut adalah link downloadnya:
-'''
+```
 https://www.sfml-dev.org/files/SFML-2.4.2-windows-gcc-4.9.2-tdm-64-bit.zip
-'''
+```
 2. Ekstrak file tadi ke dalam "Local Disc (C:)"
 
 3. Buka file "Kelompok6-IF21-AgainstTheCurrent.dev" dengan menggunakan aplikasi Devcpp
